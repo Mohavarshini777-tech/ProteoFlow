@@ -1,0 +1,6 @@
+{
+  "name": "ProteoFlow Bioinformatics Dashboard",
+  "description": "Interactive protein analysis pipeline connecting FASTA, UniProt, and RCSB PDB with sequence profiling, 3D structural visualization, mutation modeling, and AI synthesis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
